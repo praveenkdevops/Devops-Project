@@ -1,4 +1,6 @@
 # docker-Java-kubernetes-project
+![image](https://github.com/praveenkdevops/docker-Java-kubernetes-project/assets/22557736/67f23a36-914f-4b79-8f9b-b4e26c8a33d5)
+
 Deploying Java Applications with Docker and Kubernetes
 
 Create Kubernetes Cluster:- https://nvtienanh.info/blog/cai-dat-kubernetes-cluster-tren-ubuntu-server-22-04
